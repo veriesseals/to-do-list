@@ -14,3 +14,7 @@ h2 {
 h1 {
     font-family: 'Roboto', sans-serif;
 }
+
+ol {
+    margin-top:20px;
+}
