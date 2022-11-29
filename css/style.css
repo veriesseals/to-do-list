@@ -2,6 +2,10 @@
     outline: 1px dotted red;
 } */
 
+header{
+    margin-top: 20px;
+}
+
 h2 {
     text-transform: capitalize;
     font-family: 'Roboto', sans-serif;
